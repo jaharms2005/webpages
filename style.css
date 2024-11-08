@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: [Jacob Harms]
+ *UnityID: [jaharms]
+ *Date: [11/08/24]
+ *Assignment: [Project 4(HTML and Styling)]
+ *Description: [Webpages Project]
  */
  
 p {
-    property: value;
+    color: #b41353;
 }
 
-.class {
-    property: value;
+.table-border {
+    border:1px solid #cc13ff;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width:200px;
+    max-height:250px;
 }
+
